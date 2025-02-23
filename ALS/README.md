@@ -1,0 +1,2 @@
+# Przetwarzanie ALS
+
